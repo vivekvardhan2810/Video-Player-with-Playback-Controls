@@ -79,7 +79,7 @@ You can modify the source code to add more features, like fullscreen functionali
 ```
 ## Screenshots
 
-Note: this is just basic frontend and some basic backend i have made, if you have any suggestions or improvements, fell free to ask. And the above project structure is not only permitted to react js, additionally i have added files for Vue.js
+**Note**: this is just basic frontend and some basic backend i have made, if you have any suggestions or improvements, fell free to ask. And the above project structure is not only permitted to react js, additionally i have added files for Vue.js
 
 ![image](https://github.com/user-attachments/assets/0e2dd404-3f78-4050-a84a-ea04a0a446ef)
 
